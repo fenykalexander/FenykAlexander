@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Git">
+    <CLASSES>
+      <root url="file://C:/Program Files/Git" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Program Files/Git" recursive="false" />
+  </library>
+</component>
