@@ -36,7 +36,7 @@ import java.awt.*;
    this.textArea.setFont(new Font("", Font.PLAIN, 14));
    this.getContentPane().setLayout(new BorderLayout());
    this.getContentPane().add(textArea);//добавляем фун цию текстового редактора к рамке блокнота
-   this.getContentPane().add(new JScrollPane(textArea));
+   this.getContentPane().add(new JScrollPane(textArea));//добавляем вращение
 
    jMenuBar.add(file);//добаляем в меню все функции, сохрание,изменение шрифта и т.д
    jMenuBar.add(copytext);

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7748c5ed-91c5-4057-8a67-a1d4801c5ace" name="Default Changelist" comment="" />
+    <list default="true" id="7748c5ed-91c5-4057-8a67-a1d4801c5ace" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/first/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +31,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1957" />
+          <entry key="JAVA" value="1983" />
           <entry key="XML" value="8" />
         </counts>
       </usages-collector>
@@ -39,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/first/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="673">
-              <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+            <state relative-caret-position="178">
+              <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,9 +113,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="905" />
-    <option name="y" value="320" />
-    <option name="width" value="925" />
+    <option name="x" value="493" />
+    <option name="y" value="226" />
+    <option name="width" value="1070" />
     <option name="height" value="655" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -185,7 +188,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560273167830" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560275312031" />
     <property name="last_opened_file_path" value="C:/Program Files/Git" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -281,17 +284,18 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="724" y="256" width="740" height="524" extended-state="0" />
+    <frame x="395" y="181" width="856" height="524" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.3720588" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.3178392" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32867134" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.7647059" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.061381076" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.23785166" />
@@ -339,8 +343,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/first/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+        <state relative-caret-position="178">
+          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
