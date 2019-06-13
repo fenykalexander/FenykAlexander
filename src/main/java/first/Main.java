@@ -124,7 +124,7 @@ import java.awt.*;
    texti.setText("Курсивный");
    textoption.add(texti);
    textp.setText("Стандартный");
-   textoption.add(textp);
+   textoption.add(textp);//....
 
    texti.addActionListener(new ActionListener() {
     public void actionPerformed(ActionEvent ae) {
