@@ -7,7 +7,7 @@ import javax.swing.*;
 public class Currencys extends JPanel{
     public boolean check(String input){
         try{
-            double y=Double.parseDouble(input);//проверка на то что вводимые числа не содержат лишних знаков,т.е. содержат только цифры
+            double y=Double.parseDouble(input);//проверка на то что вводимые числа не содержат лишних знаков,т.е. содержат только цифры.
             if (y>=0||y<0);
             return true;
         }catch(NumberFormatException e) {//одно ю из двух исключений метода,второе-если введена пустая строка
