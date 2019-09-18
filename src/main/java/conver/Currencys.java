@@ -14,7 +14,7 @@ public class Currencys extends JPanel{
             return false;
         }
     }
-    public void rubToDollar(double put){//метод перевода рублей в деньги
+    public void rubToDollar(double put){//метод перевода рублей в деньги)))
         double dol=put/64.47;
         JOptionPane.showMessageDialog(null,"Посчитано  : " +dol+" dollar");
     }
